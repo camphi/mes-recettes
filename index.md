@@ -1,4 +1,4 @@
 ### Voici quelques de mes recettes favorites
 
 
-- [Beef Jerky](/recettes/beef-jerky.html)
+- [Beef Jerky](/recettes/beef-jerky1.html)
