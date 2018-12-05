@@ -12,14 +12,12 @@
 
 ## Étapes :
 
-1. Dans un saladier, versez la sauce anglaise
-2. Ajoutez la sauce soja
-3. Ajoutez le poivre, le paprika, le piment de Cayenne, l’ail et l’oignon en poudre
-4. Mélangez à l’aide d’un fouet
-5. Ajoutez le miel fondu au préalable au micro-ondes
-6. Mélangez à nouveau
-7. Plongez vos morceaux de bœufs dans la préparation
-8. Laissez reposer pendant au moins 3 heures
-9. Posez vos tranches de bœufs sur une grille
-10. Faites cuire vos tranches de bœufs au four pendant 4 heures à 80°C
+1. Dans un bol, mélanger : la sauce anglaise, la sauce soja, le poivre, le paprika, le piment de Cayenne, l’ail et l’oignon en poudre
+4. Mélanger à l’aide d’un fouet
+5. Ajouter le miel
+6. Mélanger à nouveau
+7. Plonger les morceaux de bœufs dans la préparation
+8. Laisser reposer pendant au moins 3 heures
+9. Poser les tranches de bœufs sur une grille
+10. Faire cuire les tranches de bœufs au four pendant 3 à 4 heures à 80°C
 11. C’est prêt !
