@@ -10,7 +10,7 @@
 - 1 tsp d’oignons en poudre
 - 1 tbs de miel
 
-## Étapes
+## Préparation
 
 1. Dans un bol, mélanger : la sauce anglaise, la sauce soja, le poivre, le paprika, le piment de Cayenne, l’ail et l’oignon en poudre
 4. Mélanger à l’aide d’un fouet
