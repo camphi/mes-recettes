@@ -1,4 +1,4 @@
-Carryover cooking doesn'tapply to poultry and fish
+Carryover cooking doesn't apply to poultry and fish
 
 Resting time 5 to 15 minutes
 
