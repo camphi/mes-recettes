@@ -6,3 +6,7 @@
 - [Carbonade](/recettes/carbonade.html)
 - [Squash and lentil curry](/recettes/squash-and-lentil-curry.html)
 - [Lapin au citron et au parmesan](/recettes/lapin-au-citron-et-au-parmesan.html)
+
+### Bases
+
+- [Bases](/bases.html)
