@@ -1,5 +1,7 @@
 Carryover cooking doesn'tapply to poultry and fish
 
+Resting time 5 to 15 minutes
+
 Ingredient | Temperature
 --- | :---:
 **Beef/Lamb** | 
