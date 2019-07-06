@@ -9,4 +9,4 @@
 
 ### Bases
 
-- [Bases](/bases.html)
+- [Bases](/notes/bases.html)
