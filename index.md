@@ -10,4 +10,4 @@
 ### Notes
 
 - [Bases](/notes/bases.html)
-- [Donenes](/notes/donenes.md)
+- [Doneness](/notes/doneness.md)
