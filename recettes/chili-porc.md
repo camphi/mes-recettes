@@ -1,5 +1,5 @@
 # Chili de porc
-## Ingrédiants
+## Ingrédients
 - 1 kg (2 lb) de porc haché maigre
 - 30 ml (2 c. à soupe) d’huile d’olive
 - 1 gros oignon, haché finement
