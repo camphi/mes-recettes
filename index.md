@@ -8,6 +8,10 @@
 - [Chili de porc](/recettes/chili-porc.html)
 - [Lapin au citron et au parmesan](/recettes/lapin-au-citron-et-au-parmesan.html)
 
+### Marinades
+
+- [Miel-balsamique](/recettes/poulet-marinade-miel-balsamique.hrml)
+
 ### Notes
 
 - [Bases](/notes/bases.html)
