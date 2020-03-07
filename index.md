@@ -11,11 +11,11 @@
 
 ### Marinades
 
-- [Miel-balsamique](/recettes/poulet-marinade-miel-balsamique.html)
+- [Miel-balsamique](/recettes/marinades/poulet-marinade-miel-balsamique.html)
 
 ### Collations
 
-- [Barres aux lentilles](/recettes/barre-aux-lentilles.html)
+- [Barres aux lentilles](/recettes/collations/barre-aux-lentilles.html)
 
 ### Notes
 
