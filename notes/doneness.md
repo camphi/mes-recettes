@@ -5,20 +5,20 @@ Resting time 5 to 15 minutes
 Ingredient | Temperature
 --- | :---:
 **Beef/Lamb** | 
-Rare | 115 to 120 degrees (120 to 125 degrees after resting)
-Medium-Rare | 120 to 125 degrees (125 to 130 degrees after resting)
-Medium | 130 to 135 degrees (135 to 140 degrees after resting)
-Medium-Well | 140 to 145 degrees (145 to 150 degrees after resting)
-Well-Done | 150 to 155 degrees (155 to 160 degrees after resting)
+Rare | <span title="115 °F">46 °C</span> to <span title="120 °F">49 °C</span> (<span title="120 °F">49 °C</span> to <span title="125 °F">52 °C</span> after resting) 
+Medium-Rare | <span title="120°f">49°c</span> to <span title="125 °F">52 °C</span> (<span title="125 °F">52 °C</span> to <span title="130 °F">54 °C</span> after resting)
+Medium | <span title="130 °F">54 °C</span> to <span title="135 °F">57 °C</span> (<span title="135 °F">57 °C</span> to <span title="140 °F">60 °C</span> after resting)
+Medium-Well | <span title="140 °F">60 °C</span> to <span title="145 °F">63 °C</span> (<span title="145 °F">63 °C</span> to <span title="150 °F">66 °C</span> after resting)
+Well-Done | <span title="150 °F">66 °C</span> to 155 degrees (155 to 160 degrees after resting)
 **Pork** | 
-Medium | 140 to 145 degrees (145 to 150 degrees after resting)
-Well-Done | 150 to 155 degrees (155 to 160 degrees after resting)
+Medium | <span title="140 °F">60 °C</span> to <span title="145 °F">63 °C</span> (<span title="145 °F">63 °C</span> to <span title="150 °F">66 °C</span> after resting)
+Well-Done | <span title="150 °F">66 °C</span> to <span title="155 °F">68 °C</span> (<span title="155 °F">68 °C</span> to <span title="160 °F">71 °C</span> after resting)
 **Chicken** | 
-White Meat | 160 degress
-Dark Meat | 175 degrees
+White Meat | <span title="160 °F">71 °C</span>
+Dark Meat | <span title="175 °F">79 °C</span>
 **Fish** | 
-Rare | 110 degrees (tuna only)
-Medium-Rare | 125 degrees (tuna or salmon)
-Meduim | 140 degrees (white-fleshed fish)
+Rare | <span title="110 °F">43 °C</span> (tuna only)
+Medium-Rare | <span title="125 °F">52 °C</span> (tuna or salmon)
+Meduim | <span title="140 °F">60 °C</span> (white-fleshed fish)
 
 *The science of good cooking*
