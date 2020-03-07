@@ -1,5 +1,3 @@
-http://www.marieevecaplette.com/5-marinades-poulet/
-
 # Marinage Miel Balsamique
 
 Préparation | Marinade
@@ -22,3 +20,6 @@ Portions: 4 poitrines
 2. Ajouter les poitrines de poulet. Brasser pour bien recouvrir les poitrines du mélange.
 3. Couvrir le bol d'une pellicule plastique et le placer au réfrigérateur. 
 4. Laisser mariner 2 heures, ou toute la nuit si possible.
+
+
+[Origin](http://www.marieevecaplette.com/5-marinades-poulet/)
