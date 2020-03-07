@@ -1,6 +1,7 @@
-### Voici quelques-unes de mes recettes favorites
+## Voici quelques-unes de mes recettes favorites
 
-- [Barres aux lentilles](/recettes/barre-aux-lentilles.html)
+### Repas
+
 - [Beef Jerky](/recettes/beef-jerky1.html)
 - [Risotto](/recettes/risotto1.html)
 - [Carbonade](/recettes/carbonade.html)
@@ -10,7 +11,11 @@
 
 ### Marinades
 
-- [Miel-balsamique](/recettes/poulet-marinade-miel-balsamique.hrml)
+- [Miel-balsamique](/recettes/poulet-marinade-miel-balsamique.html)
+
+### Collations
+
+- [Barres aux lentilles](/recettes/barre-aux-lentilles.html)
 
 ### Notes
 
