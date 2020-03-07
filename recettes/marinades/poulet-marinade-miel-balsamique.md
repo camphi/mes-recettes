@@ -1,4 +1,4 @@
-# Marinage Miel Balsamique
+# Marinade Miel Balsamique
 
 Préparation | Marinade
 :---: | :---:
