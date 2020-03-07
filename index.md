@@ -12,6 +12,10 @@
 ### Marinades
 
 - [Miel-balsamique](/recettes/marinades/poulet-marinade-miel-balsamique.html)
+- [Citron-Zataar](/recettes/marinades/poulet-marinade-citron-zataar.html)
+- [Asiatique](/recettes/marinades/poulet-marinade-asiatique.html)
+- [Grecque](/recettes/marinades/poulet-marinade-grecque.html)
+- [Indienne](/recettes/marinades/poulet-marinade-indienne.html)
 
 ### Collations
 
