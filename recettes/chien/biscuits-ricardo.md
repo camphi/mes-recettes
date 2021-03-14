@@ -1,5 +1,5 @@
 # Biscuits Ricardo
-Pour 12 gros bisucuits
+Pour 12 gros biscuits
 ## Ingrédients
 - 250 ml (1 tasse) de farine de blé entier
 - 125 ml (1/2 tasse) de semoule de maïs de grosseur moyenne
