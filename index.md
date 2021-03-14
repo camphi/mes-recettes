@@ -17,6 +17,11 @@
 - [Grecque](/recettes/marinades/poulet-marinade-grecque.html)
 - [Indienne](/recettes/marinades/poulet-marinade-indienne.html)
 
+### Chien
+- [Biscuits À la Di Stasio](/recettes/chien/biscuits-di-stasio.html)
+- [Biscuits Ricardo](/recettes/chien/biscuits-ricardo.html)
+- [Biscuits Trois fois par jour](/recettes/chien/biscuits-tfpj.html)
+
 ### Collations
 
 - [Barres aux lentilles](/recettes/collations/barre-aux-lentilles.html)
