@@ -8,7 +8,7 @@
 - [Squash and lentil curry](/recettes/squash-and-lentil-curry.html)
 - [Chili de porc](/recettes/chili-porc.html)
 - [Lapin au citron et au parmesan](/recettes/lapin-au-citron-et-au-parmesan.html)
-- [Saumon laqué au sirop d'érable](/recettes/saumon-erable.html)
+- [Saumon laqué à l'érable et au gingembre](/recettes/saumon-erable.html)
 
 ### Marinades
 
